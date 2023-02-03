@@ -4,6 +4,8 @@
 This project aims to conduct an exploratory data analysis (EDA) on a dataset of hotel bookings to gain insights on booking patterns and customer behaviour. The analysis will focus on dentifying patterns in bookings and cancellations, customer demographics and preferences, and the effectiveness of different distribution channels.
 The dataset used for this project is available [here](https://drive.google.com/file/d/1C9AxF9fcVzMw0Bgs0NaRrNML2WwX1Ehm/view).\
 [Built using jupyter notebook and Python 3]
+
+View visualizations and insights on [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSXeWZM7DtWlg5W8-3BHlZI-chqFU2rwi8j0aSF4-gdqLmZuujr9-muTqNAqOr7Kg/pub?start=false&loop=false&delayms=3000)
 ## Recommendations
 - Increase staffing and inventory during peak booking months (July and August) to accommodate increased demand.
 
