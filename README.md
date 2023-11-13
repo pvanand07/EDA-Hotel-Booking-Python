@@ -6,8 +6,8 @@ The dataset used for this project is available [here](https://drive.google.com/f
 [Built using jupyter notebook and Python 3]
 
 View presentation on [Youtube](https://youtu.be/8Ob-kAVLnNw)
-(Please wait for the gif to load)
-![Alt text](https://github.com/pvanand07/EDA-Hotel-Booking-Python/blob/master/Presentation_gif_Hotel_Booking.gif)
+
+![Alt text](https://github.com/pvanand07/EDA-Hotel-Booking-Python/blob/master/Presentation_gif_Hotel_Booking.gif)(Please wait for the gif to load)
 ## Recommendations
 - Increase staffing and inventory during peak booking months (July and August) to accommodate increased demand.
 
